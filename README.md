@@ -44,3 +44,13 @@ npm start
 
 ---
 
+## 3. Screenshots
+
+Welcome page
+
+![screenshot](../EwayPortal/Portal.Client/portal-ui/src/img/portal-1.PNG)
+
+Detail page
+
+![screenshot](../EwayPortal/Portal.Client/portal-ui/src/img/portal-2.PNG)
+
