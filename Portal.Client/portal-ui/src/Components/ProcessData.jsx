@@ -22,6 +22,7 @@ export default function ProcessData(data) {
             if (postContent !== null) {
                 console.log(postContent);
                 await PortalApi.postEmployeeContent(postContent);
+                window.location.reload();
             }
         } catch (error) {
             console.log(error);
