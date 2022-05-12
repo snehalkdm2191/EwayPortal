@@ -48,9 +48,9 @@ npm start
 
 Welcome page
 
-![screenshot](../EwayPortal/Portal.Client/portal-ui/src/img/portal-1.PNG)
+![portal-1](https://user-images.githubusercontent.com/72212986/168016130-e32909af-b3fa-4962-b482-3c2f2e300b1b.PNG)
 
 Detail page
 
-![screenshot](../EwayPortal/Portal.Client/portal-ui/src/img/portal-2.PNG)
+![portal-2](https://user-images.githubusercontent.com/72212986/168016213-69bee885-93ee-4cb3-9241-47d91105baf0.PNG)
 
